@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_CARRERA_Calculator</string>
+    <string name="emptySpace">Please enter a grade for all classes</string>
+    <string name="math">Math</string>
+    <string name="english">English</string>
+    <string name="science">Science</string>
+    <string name="social_studies">Social Studies</string>
+    <string name="music">Music</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="gpa">GPA</string>
+</resources>
